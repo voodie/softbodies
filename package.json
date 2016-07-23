@@ -1,0 +1,26 @@
+{
+  "name": "softbodies",
+  "version": "0.0.1",
+  "description": "softbodies experiments with matter.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/voodie/softbodies.git"
+  },
+  "author": "Vitaliy Petrenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/voodie/softbodies/issues"
+  },
+  "homepage": "https://github.com/voodie/softbodies#readme",
+  "dependencies": {
+    "matter-js": "^0.10.0",
+    "babel-core": "^6.11.4",
+    "babel-loader": "^6.2.4",
+    "babel-preset-es2015": "^6.9.0",
+    "webpack": "^1.13.1"
+  }
+}
